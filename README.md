@@ -1,1 +1,1 @@
-# sota-256-2026-oop2-github-task3
+# 2026-oop2-github-task3
